@@ -48,7 +48,9 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     5. [Video: Responsiveness](https://drive.google.com/file/d/1Is5LPdwqSUdP9C4RLJejKGQHOjXiowLd/view?usp=drive_link)
     6. [Video: Organizational Participation](https://drive.google.com/file/d/1IzH7tm14ftuLjO0z79zq6dWycU0nTUI9/view?usp=drive_link)
 
-8.  Course 8:
-
+8.  Course 8: Accessibility in CHAOSS
+    1. [Script](https://docs.google.com/document/d/188T3yGG7Oy_JLBcZ6iA8Q_Kyxblc0Gewlaj6ieqTyxI/edit)
+    2. [Presentation](https://docs.google.com/presentation/d/1az735N8-j3O7Vxk6GCmv2h8OiJTYcTLWH1cZAf-ZjQo/edit#slide=id.g1385ab96aac_1_77)
+    3. [Video]
 
   
